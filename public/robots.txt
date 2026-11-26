@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mwangitradematrix.web.app/sitemap.xml
+# Replace with the final Firebase Hosting domain before launch.
+Sitemap: https://YOUR_FIREBASE_PROJECT_ID.web.app/sitemap.xml
