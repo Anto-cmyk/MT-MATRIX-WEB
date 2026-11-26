@@ -1,5 +1,21 @@
 {
   "projects": {
     "default": "quadforex"
-  }
+  },
+  "targets": {
+    "quadforex": {
+      "hosting": {
+        "mtmatrix": [
+          "mtmatrix"
+        ],
+        "mwtm": [
+          "mwtm"
+        ],
+        "mwangitm": [
+          "mwangitm"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
