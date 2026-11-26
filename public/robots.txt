@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace with the final Firebase Hosting domain before launch.
-Sitemap: https://YOUR_FIREBASE_PROJECT_ID.web.app/sitemap.xml
+Sitemap: https://mtmatrix.web.app/sitemap.xml
